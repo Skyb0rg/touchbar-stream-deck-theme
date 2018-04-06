@@ -1,4 +1,4 @@
-![TouchBar Theme for Elgato Stream Deck](./src/banner.jpg)
+![TouchBar Theme for Elgato Stream Deck](./src/assets/banner.jpg)
 
 # TouchBar Theme for Elgato Stream Deck
 
@@ -17,11 +17,11 @@ by adding more third party applications to the theme by submitting a pull reques
 
 ## Installation
 ### For macOS
-To install TouchBar Theme for Elgato Stream Deck, you must
-first move or copy the file "/build/StreamDeckTouchBar.bundle" to
+To install TouchBar Theme for Elgato Stream Deck, you must first move or copy the
+file "/build/StreamDeckTouchBar.bundle" to
 "/Applications/Stream Deck.app/Contents/PlugIns/touchbar/StreamDeckTouchBar.bundle",
-you probably require administrator privileges and the system asks you to enter
-your administrator password.
+you probably require administrator privileges and the system asks you to enter your
+administrator password.
 
 After moving the file, go to the "Stream Deck" application and then go to the "Preferences" section, go to the "Profiles" tab and then import the "/build/TouchBarMac.streamDeckProfile" profile.
 
